@@ -2,7 +2,7 @@
 This Power BI dashboard analyzes a marketing campaign dataset from Kaggle. It covers insights across products, channels, demographics, and campaign performance to understand customer behavior, channel effectiveness, and campaign response.
 
 **Dashboard Visuals & Insights**
-**Customer Responses Over Time**
+**1. Customer Responses Over Time**
 * Visual: Line Chart
 * Purpose: To observe how customer responses evolved over time based on Dt_Customer.
 * Insight: Peaks indicate stronger engagement or campaign rollouts.
